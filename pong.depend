@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1589595224 source:c:\users\boyad\onedrive\bureau\dev cpp\pong\main.cpp
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"main.h"
+	"ball.h"
+	"Bar.h"
+	"Missile.h"
+	"DynamicMenu.h"
+	"CollisionManager.h"
+	<SFML/Audio/Music.hpp>
+	<SFML/Audio/Sound.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+
+1587334119 c:\users\boyad\onedrive\bureau\dev cpp\pong\main.h
+
+1588935818 source:c:\users\boyad\onedrive\bureau\dev cpp\pong\src\ball.cpp
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"../main.h"
+	"ball.h"
+
+1587839404 c:\users\boyad\onedrive\bureau\dev cpp\pong\include\ball.h
+
+1588955300 source:c:\users\boyad\onedrive\bureau\dev cpp\pong\src\bar.cpp
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"../main.h"
+	"Bar.h"
+
+1588955295 c:\users\boyad\onedrive\bureau\dev cpp\pong\include\bar.h
+
+1589595546 source:c:\users\boyad\onedrive\bureau\dev cpp\pong\src\collisionmanager.cpp
+	<SFML/Audio/Sound.hpp>
+	<cstdlib>
+	<cmath>
+	<SFML/Graphics.hpp>
+	"../main.h"
+	"ball.h"
+	"Bar.h"
+	"Missile.h"
+	"CollisionManager.h"
+
+1589594604 c:\users\boyad\onedrive\bureau\dev cpp\pong\include\collisionmanager.h
+	<SFML/Audio/Sound.hpp>
+
+1587771647 source:c:\users\boyad\onedrive\bureau\dev cpp\pong\src\dynamicmenu.cpp
+	<string>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"DynamicMenu.h"
+
+1587771643 c:\users\boyad\onedrive\bureau\dev cpp\pong\include\dynamicmenu.h
+
+1588953612 source:c:\users\boyad\onedrive\bureau\dev cpp\pong\src\missile.cpp
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"Missile.h"
+
+1589594857 c:\users\boyad\onedrive\bureau\dev cpp\pong\include\missile.h
+
+1589592736 source:c:\users\boyad\onedrive\bureau\dev cpp\pong\src\son.cpp
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"son.h"
+
+1589592277 c:\users\boyad\onedrive\bureau\dev cpp\pong\include\son.h
+
+1589595224 source:c:\users\boyad\onedrive\bureau\dev_cpp\repository\pong\main.cpp
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"main.h"
+	"ball.h"
+	"Bar.h"
+	"Missile.h"
+	"DynamicMenu.h"
+	"CollisionManager.h"
+	<SFML/Audio/Music.hpp>
+	<SFML/Audio/Sound.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+
+1587334119 c:\users\boyad\onedrive\bureau\dev_cpp\repository\pong\main.h
+
+1587839404 c:\users\boyad\onedrive\bureau\dev_cpp\repository\pong\include\ball.h
+
+1588955295 c:\users\boyad\onedrive\bureau\dev_cpp\repository\pong\include\bar.h
+
+1589594857 c:\users\boyad\onedrive\bureau\dev_cpp\repository\pong\include\missile.h
+
+1587771643 c:\users\boyad\onedrive\bureau\dev_cpp\repository\pong\include\dynamicmenu.h
+
+1589594604 c:\users\boyad\onedrive\bureau\dev_cpp\repository\pong\include\collisionmanager.h
+	<SFML/Audio/Sound.hpp>
+
+1588935818 source:c:\users\boyad\onedrive\bureau\dev_cpp\repository\pong\src\ball.cpp
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"../main.h"
+	"ball.h"
+
+1588955300 source:c:\users\boyad\onedrive\bureau\dev_cpp\repository\pong\src\bar.cpp
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"../main.h"
+	"Bar.h"
+
+1589595546 source:c:\users\boyad\onedrive\bureau\dev_cpp\repository\pong\src\collisionmanager.cpp
+	<SFML/Audio/Sound.hpp>
+	<cstdlib>
+	<cmath>
+	<SFML/Graphics.hpp>
+	"../main.h"
+	"ball.h"
+	"Bar.h"
+	"Missile.h"
+	"CollisionManager.h"
+
+1587771647 source:c:\users\boyad\onedrive\bureau\dev_cpp\repository\pong\src\dynamicmenu.cpp
+	<string>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"DynamicMenu.h"
+
+1588953612 source:c:\users\boyad\onedrive\bureau\dev_cpp\repository\pong\src\missile.cpp
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"Missile.h"
+
